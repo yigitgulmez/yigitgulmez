@@ -28,13 +28,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeniasd" height="30" width="40" /></a>
 </p>
 
-<br/>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/9uato4x6999lqe6qjh83r40hx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9uato4x6999lqe6qjh83r40hx" alt="Spotify recently played"/></a>
-</div>
-
 #
 
 <h3 align="center">✨ Languages and Tools ✨</h3>
@@ -64,13 +57,21 @@
 
 #
 
+<h3 align="center">✨ Stats ✨</h3>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeniasd&theme=midnight-purple&hide_border=false" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeniasd&theme=midnight-purple&hide_border=false" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"/>
 </div>
 
 #
+
+<h3 align="center">✨ Visits ✨</h3>
+
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yeniasd/count.svg?"/>
