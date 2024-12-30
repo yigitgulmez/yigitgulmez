@@ -17,9 +17,9 @@
 
 <br/>
 
-<div align="center" stlye=""gap>
+<div align="center">
   <a href="https://discord.gg/528167186511167498" target="blank">
-    <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="30" width="40" /></a>
+    <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="40" width="40" /></a>
 
   <a href="https://instagram.com/yyeniasd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.gulmez08" height="40" width="40" /></a>
