@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi 👋, I'm yeniasd ✨</h1>
+<h1 align="center">✨ Hi 👋, I'm Yiğit ✨</h1>
 <div align="center">
 
 🔭 I’m currently working on **React** 🔭
@@ -13,28 +13,31 @@
   
 #
 
-<h3 align="center">✨ Connect with me ✨</h3>
+<h3 align="center">✨ Social ✨</h3>
 
 <br/>
 
-<p align="center">
+<div align="center" stlye=""gap>
   <a href="https://discord.gg/528167186511167498" target="blank">
-    <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="30" width="30" /></a>
+    <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="30" width="40" /></a>
 
-  <a href="https://instagram.com/y.gulmez08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.gulmez08" height="30" width="40" /></a>
+  <a href="https://instagram.com/yyeniasd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.gulmez08" height="40" width="40" /></a>
 
   <a href="https://linkedin.com/in/yeniasd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeniasd" height="30" width="40" /></a>
-</p>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeniasd" height="40" width="40" /></a>
+  
+  <a href="https://open.spotify.com/user/9uato4x6999lqe6qjh83r40hx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/github/explore/54e45fb3fb5605cdf683fbe5433d51ee4d05ccc0/topics/spotify/spotify.png" alt="yeniasd" height="40" width="40" /></a>
+</div>
 
 #
 
-<h3 align="center">✨ Languages and Tools ✨</h3>
+<h3 align="center">✨ Languages-Frameworks-Tools ✨</h3>
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
   <img alt="reactnative" width="40" height="40" src="https://reactnative.dev/img/header_logo.svg"/>
   <img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -53,8 +56,9 @@
   <img alt="android" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
   <img alt="arduino" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
   <img alt="mssql" width="40" height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a"/>
-  <img alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-</p>
+  <img alt="photoshop" width="40" height="40" src="https://github.com/computergnome99/adobe-icons/blob/main/png/Icon/Photoshop.png"/>
+  <img alt="aftereffect" width="40" height="40" src="https://github.com/computergnome99/adobe-icons/blob/main/png/Icon/After%20Effects.png"/>
+</div>
 
 #
 
@@ -63,9 +67,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeniasd&theme=midnight-purple&hide_border=false" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"/>
+  <img alt="stats graph" height="150" src="https://github-readme-stats.vercel.app/api?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
+  <img alt="streak graph" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yeniasd&theme=midnight-purple&hide_border=false"/>
+  <img alt="languages graph" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 #
@@ -75,5 +79,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yeniasd/count.svg?"/>
+  <img alt="visit graph" src="https://profile-counter.glitch.me/yeniasd/count.svg?"/>
 </div>
