@@ -1,11 +1,16 @@
 <h1 align="center">✨ Hi 👋, I'm Yiğit ✨</h1>
 <div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+✨;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb" alt="Typing SVG" />
+ </a>
+</div>
+<div align="center">
 
 🔭 I’m currently working on **React** 🔭
 
 🔎 I’m currently learning **Next.js, Express.js, MongoDB** 🔎
 
-👨‍💻 All of my projects are available at Coming soon... 👨‍💻<!--[yeniasd.vercel.app](yeniasd.vercel.app)-->
+👨‍💻 All of my projects are available at (Coming soon...) 👨‍💻<!--[yeniasd.vercel.app](yeniasd.vercel.app)-->
 
 📨 How to reach me **ygulmez873@gmail.com** 📨
 
