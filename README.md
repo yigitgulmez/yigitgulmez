@@ -1,28 +1,32 @@
-<h1 align="center">✨ Hi 👋, I'm Yiğit ✨</h1>
-<div align="center">
+<h1 align="center">
  <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+✨;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb" alt="Typing SVG" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+✨;💻+Software+Developer+💻"/>
  </a>
+ <img alt="gif" src"https://komarev.com/ghpvc/?username=yeniasd&style=flat-square&color=blueviolet&abbreviated=true"/>
+</h1>
+
+<div>
 </div>
-<div align="center">
-
-🔭 I’m currently working on **React** 🔭
-
-🔎 I’m currently learning **Next.js, Express.js, MongoDB** 🔎
-
-👨‍💻 All of my projects are available at (Coming soon...) 👨‍💻<!--[yeniasd.vercel.app](yeniasd.vercel.app)-->
-
-📨 How to reach me **ygulmez873@gmail.com** 📨
-
-<div/>
-  
-#
-
-<h3 align="center">✨ Social ✨</h3>
 
 <br/>
 
+ 🔭 I’m currently working on **React**
+
+ 🔎 I’m currently learning **Next.js, Express.js, MongoDB**
+
+ 👨‍💻 All of my projects are available at **(Coming soon...)**<!--[yeniasd.vercel.app](yeniasd.vercel.app)-->
+
+ 📨 How to reach me **ygulmez873@gmail.com**
+<br/>
+
+  <img alt="gif" src""/>
+[gif](https://giphy.com/embed/j5mwjor5i5PGigmPH2)
+
+#
+  <h3 align="center">✨ Social ✨</h3>
+ 
 <div align="center">
+ 
   <a href="https://discord.gg/528167186511167498" target="blank">
     <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="40" width="40" /></a>
 
@@ -39,6 +43,7 @@
 #
 
 <h3 align="center">✨ Languages-Frameworks-Tools ✨</h3>
+
 
 <br/>
 
@@ -72,17 +77,4 @@
 <br/>
 
 <div align="center">
-  <img alt="stats graph" height="150" src="https://github-readme-stats.vercel.app/api?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"/>
-  <img alt="streak graph" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yeniasd&theme=midnight-purple&hide_border=false"/>
-  <img alt="languages graph" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-
-#
-
-<h3 align="center">✨ Visits ✨</h3>
-
-<br/>
-
-<div align="center">
-  <img alt="visit graph" src="https://profile-counter.glitch.me/yeniasd/count.svg?"/>
-</div>
+  <img alt="languages graph" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=aura&show_icons=true&hide_border=true&layout=compact"/></div>
