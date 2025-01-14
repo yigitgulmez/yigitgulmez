@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/CagatayAkkas">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+✨;💻+Software+Developer+💻"/>
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit Gülmez+✨;💻+Software+Developer+💻"/>
  </a>
 
  <br/>
@@ -32,7 +32,7 @@
  <a href="https://discord.gg/528167186511167498" target="blank">
    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="40" width="40" /></a>
 
- <a href="https://instagram.com/yyeniasd" target="blank">
+ <a href="https://instagram.com/y.gulmez08" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.gulmez08" height="40" width="40" /></a>
 
  <a href="https://linkedin.com/in/yeniasd" target="blank">
