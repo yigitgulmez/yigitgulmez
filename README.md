@@ -73,4 +73,4 @@
 
 <br/>
 
-<div align="center"><img alt="languages graph" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeniasd&theme=aura&show_icons=true&hide_border=true&layout=compact"/></div>
+<div align="center"><img alt="languages graph" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitgulmez&theme=aura&show_icons=true&hide_border=true&layout=compact"/></div>
