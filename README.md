@@ -18,7 +18,7 @@
 
  🔎 I’m currently learning **Next.js, Express.js, MongoDB**
 
- 👨‍💻 All of my projects are available at **(Coming soon...)**<!--[yeniasd.vercel.app](yeniasd.vercel.app)-->
+ 👨‍💻 All of my projects are available at [yeniasd.com](yeniasd.com)
 
  📨 How to reach me **ygulmez873@gmail.com**
 
