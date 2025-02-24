@@ -9,14 +9,14 @@
  
 </h1>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRqMWc2NnIzcGl1anQwamIydDdoN2FkZmh0NnE0cjFyaWIzd2lvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j5mwjor5i5PGigmPH2/giphy.webp" height="250" width="250" align="right"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFiajBiM3g2ZTF4cjcxN28xOXo5d2J6dzNyNTBycDk5bjAxdDZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="333" align="right"/>
 
 <br/>
 <br/>
 
  🔭 I’m currently working on **React**
 
- 🔎 I’m currently learning **Next.js, Express.js, MongoDB**
+ 🔎 I’m currently learning **Go(Fiber, Cobra), FFmpeg, Next.js, Docker**
 
  👨‍💻 All of my projects are available at [yeniasd.com](https://yeniasd.com/)
 
