@@ -17,7 +17,7 @@
 
  🔭 I’m currently working on **React**
 
- 🔎 I’m currently learning **Go(Fiber, Cobra), FFmpeg, Next.js, Docker**
+ 🔎 I’m currently learning **Rust, FFmpeg, Next.js**
 
  👨‍💻 All of my projects are available at [yeniasd.com](https://yeniasd.com/)
 
