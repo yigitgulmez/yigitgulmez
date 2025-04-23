@@ -19,7 +19,7 @@
 
  🔎 I’m currently learning **Rust, FFmpeg, Next.js**
 
- 👨‍💻 All of my projects are available at [yeniasd.com](https://yeniasd.com/)
+ 👨‍💻 All of my projects are available at [yigitgulmez.com](https://yigitgulmez.com/)
 
  📨 How to reach me **ygulmez873@gmail.com**
 
