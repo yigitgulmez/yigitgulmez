@@ -5,7 +5,7 @@
 
  <br/>
  
- <div align="left"><img alt="Visit" src="https://komarev.com/ghpvc/?username=yeniasd&color=blueviolet&abbreviated=true"/></div>
+ <div align="left"><img alt="Visit" src="https://komarev.com/ghpvc/?username=yigitgulmez&color=blueviolet&abbreviated=true"/></div>
  
 </h1>
 <br/>
