@@ -40,8 +40,6 @@
  <a href="https://linkedin.com/in/yeniasd" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeniasd" height="40" width="40" /></a>
   
- <a href="https://open.spotify.com/user/9uato4x6999lqe6qjh83r40hx" target="blank">
-  <img src="https://raw.githubusercontent.com/github/explore/54e45fb3fb5605cdf683fbe5433d51ee4d05ccc0/topics/spotify/spotify.png" alt="yeniasd" height="40" width="40" /></a>
 </div>
 
 #
