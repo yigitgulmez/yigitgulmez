@@ -35,10 +35,10 @@
    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="528167186511167498" height="40" width="40" /></a>
 
  <a href="https://instagram.com/_yigitgulmez" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.gulmez08" height="40" width="40" /></a>
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yigitgulmez" height="40" width="40" /></a>
 
- <a href="https://linkedin.com/in/yeniasd" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeniasd" height="40" width="40" /></a>
+ <a href="https://linkedin.com/in/yigitgulmez" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigitgulmez" height="40" width="40" /></a>
   
 </div>
 
