@@ -21,7 +21,7 @@
 
  👨‍💻 All of my projects are available at [yigitgulmez.com](https://yigitgulmez.com/)
 
- 📨 How to reach me **ygulmez873@gmail.com**
+ 📨 How to reach me **yigit@yigitgulmez.com**
 
 <br/>
 <br/>
