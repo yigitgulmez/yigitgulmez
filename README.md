@@ -21,7 +21,7 @@
 
  🔭 I’m currently working on **React**
 
- 🔎 I’m currently learning **Rust, Next.js**
+ 🔎 I’m currently learning **Next.js**
 
  👨‍💻 All of my projects are available at [yigitgulmez.com](https://yigitgulmez.com/)
 
