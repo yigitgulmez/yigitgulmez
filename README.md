@@ -1,7 +1,7 @@
 
 <h1 align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+Gülmez+✨;💻+Software+Developer+💻)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Yiğit+Gülmez+✨;💻+Software+Developer+💻)](https://git.io/typing-svg)
 
  <img src="https://github.com/user-attachments/assets/e751fc40-f8bc-4737-ba66-da738b07d98d" align="center"/>
 
